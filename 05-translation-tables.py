@@ -3,7 +3,8 @@
 # @Email: farhadyusifov@protonmail.com
 # @Date: 2025-11-21
 
-# @Description: 
+# @Description: These are some of the translation tables available in Biopython.
+
 
 from Bio.Data import CodonTable
 

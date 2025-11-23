@@ -5,6 +5,8 @@
 
 # @Description: A simple script to demonstrate the use of Biopython for basic sequence manipulation.
 
+
 import Bio
+
 
 print("Hello Biopython version", Bio.__version__)

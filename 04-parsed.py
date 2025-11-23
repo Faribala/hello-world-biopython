@@ -3,14 +3,14 @@
 # @Email: farhadyusifov@protonmail.com
 # @Date: 2025-11-21
 
-# @Description: 
+# @Description: Using Biopython to show sequence analysis.
 
 
 from Bio import SeqIO
 from Bio.SeqUtils import gc_fraction
 
 
-for record in SeqIO.parse("ls_orchid.fasta", "fasta"):
+for record in SeqIO.parse("C:\\Users\\alnot\\Desktop\\NCBI _DATA\\ls_orchid.fasta", "fasta"):
     print("ID:", record.id)
     print("Sequence:", repr(record.seq))
     print("Sequence Length:", len(record.seq))

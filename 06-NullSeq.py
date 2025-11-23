@@ -3,7 +3,7 @@
 # @Email: farhadyusifov@protonmail.com
 # @Date: 2025-11-21
 
-# @Description: 
+# @Description: This is an example of a null sequence.
 
 
 from Bio.Seq import Seq
